@@ -1,0 +1,6 @@
+mack\br\lab_dao\persistencia\contasDaoMySQL.class
+mack\br\lab_dao\persistencia\MySQLConnection.class
+mack\br\lab_dao\App.class
+mack\br\lab_dao\entidades\contas.class
+mack\br\lab_dao\persistencia\contasDAO.class
+mack\br\lab_dao\InterfaceUsuario.class
